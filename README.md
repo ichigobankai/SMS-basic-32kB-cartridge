@@ -4,6 +4,10 @@
 DIP (through hole, easy to solder)
 BRD files for Eagle, Kicad users or by Oshpark manufacturer.
 
+https://github.com/ichigobankai/SMS-basic-32kB-cartridge/blob/main/sms32k.jpg
+<img src="sms32k.jpg" width="auto" height="240px"/>
+
+
 <strong>COMPONENTS</strong>
 
 Parts:
